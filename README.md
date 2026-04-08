@@ -1,0 +1,2 @@
+# Ikigai-Claude
+ikigai pros
